@@ -34,9 +34,6 @@
 > Find more in https://github.com/matchai/awesome-pinned-gists
 
 
-
-## Setup
-
 ### Prep work
 
 1. Create a new public GitHub Gist (https://gist.github.com/)
